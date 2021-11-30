@@ -53,3 +53,20 @@ h4{
     color: white;
     font-weight: bold;
 }
+
+.box
+{
+    margin-top: 1px;
+    background-color: rgb(210, 255, 9);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px rgb(26, 196, 202);
+    width: 50%;
+    margin-bottom: 35px;
+
+}
+#conclusion
+{
+    font-weight: 100;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
